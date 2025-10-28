@@ -1,9 +1,18 @@
 # German Credit Risk
 
-1. Data was preprocessed by assigning categories instead of objects
+The dataset was imported from Kaggle.
+
+It contains multiple features that might affect the risk score of a german citizen. 
 
 
-2. EDA
+The steps taken to clean, explore, preprocess and test the models are outlines below:
+
+
+
+1. Data was preprocessed by assigning categories instead of objects.
+
+
+2. EDA.
 
 We will be exploring the features of the dataset to see if some of them are correlated.
 
