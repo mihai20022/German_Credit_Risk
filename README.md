@@ -29,3 +29,15 @@ Tip: boxplots for numerical fetures. countplots for categorical ones.
 Correlation matrix. Checking if the predicted correlations are true.
 
 Positive correlation between duration and credit amount. Consequently, we will exclude the duration.
+
+Feature importance in the Random Forest:
+
+Using the feature importance attribute, the following features have a higher influence on the target variable:
+
+credit, age, duration.
+
+Feature importance in the Logistic Regression:
+
+- Radio/TV purpose has a lower risk. However, the vacation feature increases the risk.
+
+- Duration influences negatively the risk, while if the customer has a house, the risk is lower.
